@@ -1,0 +1,16 @@
+.authors ul {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.authors li {
+  padding: 10px;
+}
+
+.authors a {
+  text-decoration: none;
+}
+
+.authors a:hover {
+  font-weight: bold;
+}
