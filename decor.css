@@ -1,5 +1,5 @@
 .body {
-  background-color: #DDFFF7;
+  background-color: #F7E4D2;
 }
 
 .authors {
@@ -46,7 +46,7 @@
   font-size: 50px;
   position:relative;
   left:0px;
-  color: #545F66;
+  color: #2B0002;
 }
 
 .carousel {
@@ -60,21 +60,21 @@
   font-size: 30px;
   position:relative;
   left:0px;
-  color: #545F66;
+  color: #2B0002;
 }
 
 .ourGoals h2{
   font-size: 30px;
   position:relative;
   left:0px;
-  color: #545F66;
+  color: #2B0002;
 }
 
 .rules h2{
   font-size: 30px;
   position:relative;
   left:0px;
-  color: #545F66;
+  color: #2B0002;
 }
 
 .rules ol{
@@ -88,5 +88,13 @@
   font-size: 30px;
   position:relative;
   left:0px;
-  color: #545F66;
+  color: #2B0002;
+}
+
+.aboutTheGame p {
+  font-size: 15px
+}
+
+.ourGoals p {
+  font-size: 15px
 }
