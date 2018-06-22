@@ -1,16 +1,92 @@
-.authors ul {
+.body {
+  background-color: #DDFFF7;
+}
+
+.authors {
   list-style-type: none;
   display: inline-flex;
 }
 
-.authors li {
+.authors {
   padding: 10px;
 }
 
-.authors a {
+.authors {
   text-decoration: none;
 }
 
-.authors a:hover {
-  font-weight: bold;
+#Audrey {
+  font-size: 20px;
+  position:relative;
+  left:0px;
+}
+
+.paragraph {
+  position: relative;
+  left:30px;
+}
+.paragraphIsis {
+  position: relative;
+  left: 40px;
+}
+
+#Carol {
+  font-size: 20px;
+  position:relative;
+  left:180px;
+}
+
+#Isis {
+  font-size: 20px;
+  position:relative;
+  left:100px;
+}
+
+.title h1{
+  font-size: 50px;
+  position:relative;
+  left:0px;
+  color: #545F66;
+}
+
+.carousel {
+  width:640px;
+  height:360px;
+  position: relative;
+  left:200px;
+}
+
+.aboutTheGame h2{
+  font-size: 30px;
+  position:relative;
+  left:0px;
+  color: #545F66;
+}
+
+.ourGoals h2{
+  font-size: 30px;
+  position:relative;
+  left:0px;
+  color: #545F66;
+}
+
+.rules h2{
+  font-size: 30px;
+  position:relative;
+  left:0px;
+  color: #545F66;
+}
+
+.rules ol{
+  font-size: 15px;
+  position:relative;
+  left:0px;
+  color: black;
+}
+
+.aboutTheAuthors h2{
+  font-size: 30px;
+  position:relative;
+  left:0px;
+  color: #545F66;
 }
